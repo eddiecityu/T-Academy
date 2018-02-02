@@ -1,0 +1,14 @@
+github setup :
+http://tech-marsw.logdown.com/blog/2013/08/16/git-notes-github
+
+github desktop:
+https://www.jianshu.com/p/a6fc842f501d
+
+Git ??
+https://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
+
+Git Cheat-Sheet
+https://github.com/flyhigher139/Git-Cheat-Sheet
+
+GitHub ???????????????
+https://www.zhihu.com/question/38836382
