@@ -15,6 +15,8 @@ https://coderwall.com/p/yl1-ug/git--2
 
 A simple todo API made with NodeJS, ExpressJS and MongoDB
 https://github.com/nomanHasan/todo-api
+https://medium.com/@nomanbinhussein/mean-app-tutorial-with-angular-4-part-2-4250522c845
+https://github.com/nomanHasan/todoapp-angular
 
 Twitter angular4
 https://nirgn975.gitbooks.io/build-a-web-app-with-angular-and-api-star/content/chapter2/21-new-angular-app.html
